@@ -1,4 +1,4 @@
-## Olá pessoas, meu nome é Pedro Henrique (também conhecido como /pedro ou Barra Pedro).
+## Hi, my name is Pedro.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-1" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
